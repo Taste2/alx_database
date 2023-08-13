@@ -6,4 +6,4 @@ USE hbtn_0c_0
 
 CREATE TABLE first_table (id int, name varchar(256));
 
-SHOW COLUMNS FROM hbtn_0c_0.first_table;
+SHOW COLUMNS FROM first_table;
