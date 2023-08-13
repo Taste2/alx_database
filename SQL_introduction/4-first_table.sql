@@ -1,6 +1,6 @@
 -- a script that creates a table called first_table in the current database in your MySQL server.
 
-USE mysql[1];
+USE mysql[0];
 
 DROP TABLE IF EXISTS first_table;
 
