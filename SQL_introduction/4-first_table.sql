@@ -1,6 +1,6 @@
 -- a script that creates a table called first_table in the current database in your MySQL server.
 
-USE mysql[0];
+USE hbtn_test_db_4;
 
 DROP TABLE IF EXISTS first_table;
 
