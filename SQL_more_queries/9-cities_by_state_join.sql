@@ -2,6 +2,6 @@
 
 USE hbtn_test_db_9;
 
-SELECT DISTINCT id, name
+SELECT id, name
 FROM cities
 ORDER BY cities.id;
