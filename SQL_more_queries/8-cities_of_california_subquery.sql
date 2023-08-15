@@ -2,7 +2,7 @@
 
 USE hbtn_test_db_8;
 
-SELECT name
+SELECT id, name
 FROM cities
 WHERE state_id = 
     (SELECT id
