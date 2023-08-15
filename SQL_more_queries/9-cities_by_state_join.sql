@@ -2,6 +2,6 @@
 
 USE hbtn_test_db_9;
 
-SELECT id, name
+SELECT cities.id, name
 FROM cities, states
 ORDER BY cities.id;
