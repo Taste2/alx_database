@@ -1,6 +1,6 @@
 -- Write a script that lists all the cities of California that can be found in the database hbtn_0d_usa.
 
-USE hbtn_0d_usa;
+USE hbtn_test_db_8;
 
 SELECT name
 FROM cities
